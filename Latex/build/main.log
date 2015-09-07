@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.7.24)  18 AUG 2015 17:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.6)  7 SEP 2015 23:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 8 languages loaded.
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
 (./moderncv.cls
 Document Class: moderncv 2013/02/09 v1.3.0 modern curriculum vitae and letter d
 ocument class
@@ -769,7 +769,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `breaklinks' set `true' on input line 51.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
 
-(./main.aux)
+(build/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -893,7 +893,7 @@ LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
 
-(./main.out) (./main.out)
+(build/main.out) (build/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -960,19 +960,19 @@ No file main.bbl.
 [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
- (./main.aux)
+ (build/main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 5E7009C6D04A24019F194DF06541F137;807.
+(rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 17272 strings out of 494910
- 285318 string characters out of 6178755
- 377247 words of memory out of 5000000
- 20221 multiletter control sequences out of 15000+600000
+ 17273 strings out of 495028
+ 285374 string characters out of 6181498
+ 376852 words of memory out of 5000000
+ 20205 multiletter control sequences out of 15000+600000
  49964 words of font info for 57 fonts, out of 8000000 for 9000
- 81 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  50i,13n,57p,10381b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/s
@@ -981,7 +981,7 @@ c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvos
 ym.pfb>
-Output written on main.pdf (2 pages, 210226 bytes).
+Output written on build/main.pdf (2 pages, 210540 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
